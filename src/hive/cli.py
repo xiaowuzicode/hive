@@ -535,8 +535,8 @@ def current_cmd():
 
 
 _RANDOM_AGENT_NAMES = (
-    "yoyo", "lulu", "nini", "bobo", "kiki",
-    "dodo", "pipi", "toto", "momo", "coco",
+    "nannan", "lulu", "zhuzhu", "pangpang", "huahua",
+    "duoduo", "mimi", "tutu", "doudou", "qiuqiu",
 )
 
 
